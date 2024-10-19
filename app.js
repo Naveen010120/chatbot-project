@@ -5,7 +5,7 @@ function talk(){
     "where are you from" : "Nirmal😊..",
     "can you help me" : "yeah sure ,what's your problem",
     "today's weather report" : "today weather is clear and sunny 😎😎",
-    "thank you": "its my pleaser",
+    "thank you": "Your always welcome🤗🤗",
     "bye" : "Okay! Will meet soon.."
     };
     let user = document.getElementById('userBox').value;
