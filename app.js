@@ -4,7 +4,7 @@ function talk(){
     "hello":"hello, nice to have you  here",
     "where are you from" : "Nirmal😊..",
     "can you help me" : "yeah sure ,what's your problem",
-    "today's wheather report" : "today wheather is clear and sunny 😎😎",
+    "today's weather report" : "today weather is clear and sunny 😎😎",
     "thank you": "its my pleaser",
     "bye" : "Okay! Will meet soon.."
     };
